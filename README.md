@@ -1,4 +1,11 @@
 # Game-development-club-SEU
+
+
+<p align="center">
+<img src=https://github.com/Obaidiaa/Game-development-club-SEU/blob/main/Untitled_design.png/>
+</p>
+
+
 Game development club for Saudi Electronic University 
 
 
